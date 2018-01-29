@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 12, 2018, 12:31:22 PM
+    Author     : omnia samy
+*/
+#lableNotfication
+{
+    -fx-font-size:18px;
+    -fx-font-weight: bold;
+}
+#lable
+{
+    -fx-background-color: #90CAF9;  
+}
+#pane
+{
+    -fx-background-color: #FFFFFF;   
+}
+
+#line
+{
+    -fx-background-color: #AAAAAA;   
+}
+
+#stopStart
+{
+    -fx-background-radius: 5em; 
+    -fx-min-width: 50px; 
+    -fx-min-height: 50px; 
+    -fx-max-width: 50px; 
+    -fx-max-height: 50px;
+    -fx-background-color: #FF5722;   
+}
+#online
+{
+    -fx-background-radius: 5em; 
+    -fx-min-width: 10px; 
+    -fx-min-height: 10px; 
+    -fx-max-width: 10px; 
+    -fx-max-height: 10px;
+    -fx-background-color: #4CAF50;   
+}
+#offline
+{
+    -fx-background-radius: 5em; 
+    -fx-min-width: 10px; 
+    -fx-min-height: 10px; 
+    -fx-max-width: 10px; 
+    -fx-max-height: 10px;
+    -fx-background-color: #F4511E; 
+}
